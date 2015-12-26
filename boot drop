@@ -1,0 +1,385 @@
+F5::
+loop
+{
+Send {Numpad3}
+WinActivate Trove
+sleep 500
+WinMove, Trove,, -8, -8, 1296, 744
+sleep 500
+MouseClick , r, 982, 275
+sleep 500
+MouseClick , r, 1037, 275
+sleep 500
+MouseClick , r, 1092, 275
+sleep 500
+MouseClick , r, 1147, 275
+sleep 500
+MouseClick , r, 1202, 275
+sleep 500
+MouseClick , r, 982, 330
+sleep 500
+MouseClick , r, 1037, 330
+sleep 500
+MouseClick , r, 1092, 330
+sleep 500
+MouseClick , r, 1147, 330
+sleep 500
+MouseClick , r, 1202, 330
+sleep 500
+MouseClick , r, 982, 385
+sleep 500
+MouseClick , r, 1037, 385
+sleep 500
+MouseClick , r, 1092, 385
+sleep 500
+MouseClick , r, 1147, 385
+sleep 500
+MouseClick , r, 1202, 385
+sleep 500
+MouseClick , r, 982, 440
+sleep 500
+MouseClick , r, 1037, 440
+sleep 500
+MouseClick , r, 1092, 440
+sleep 500
+MouseClick , r, 1147, 440
+sleep 500
+MouseClick , r, 1202, 440
+sleep 500
+MouseClick , l, 201, 708
+sleep 500
+MouseClick , l, 568, 402
+sleep 500
+MouseClick , r, 982, 495
+sleep 500
+MouseClick , r, 1037, 495
+sleep 500
+MouseClick , r, 1092, 495
+sleep 500
+MouseClick , r, 1147, 495
+sleep 500
+MouseClick , r, 1202, 495
+sleep 500
+MouseClick , r, 982, 550
+sleep 500
+MouseClick , r, 1037, 550
+sleep 500
+MouseClick , r, 1092, 550
+sleep 500
+MouseClick , r, 1147, 550
+sleep 500
+MouseClick , r, 1202, 550
+sleep 500
+MouseClick , l, 201, 708
+sleep 500
+MouseClick , l, 568, 402
+sleep 500
+MouseClick , m, 982, 275
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1037, 275
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1092, 275
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1147, 275
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1202, 275
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 982, 330
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1037, 330
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1092, 330
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1147, 330
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1202, 330
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 982, 385
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1037, 385
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1092, 385
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1147, 385
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1202, 385
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 982, 440
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1037, 440
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1092, 440
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1147, 440
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1202, 440
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 982, 495
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1037, 495
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1092, 495
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1147, 495
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1202, 495
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 982, 550
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1037, 550
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1092, 550
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1147, 550
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1202, 550
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , l, 347, 48
+Sleep 500
+MouseClick , l, 915, 208
+Sleep 500
+MouseClick , m, 982, 110
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1037, 110
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1092, 110
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1147, 110
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1202, 110
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 982, 165
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1037, 165
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1092, 165
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1147, 165
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1202, 165
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 982, 220
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1037, 220
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1092, 220
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1147, 220
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1202, 220
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 982, 275
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1037, 275
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1092, 275
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1147, 275
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1202, 275
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 982, 330
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1037, 330
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1092, 330
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1147, 330
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1202, 330
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 982, 385
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1037, 385
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1092, 385
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1147, 385
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1202, 385
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 982, 440
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1037, 440
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1092, 440
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1147, 440
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1202, 440
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 982, 495
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1037, 495
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1092, 495
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1147, 495
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1202, 495
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 982, 550
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1037, 550
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1092, 550
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1147, 550
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+MouseClick , m, 1202, 550
+Sleep 500
+MouseClick , l, 572, 414
+Sleep 500
+Send {e}
+Sleep 5000
+Send {Numpad1}
+Sleep 300000
+}
